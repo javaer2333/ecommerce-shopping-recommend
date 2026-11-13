@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.claude/
+.sessions/
+output/
+report/
+report.md
+report.html
+.venv/
+venv/

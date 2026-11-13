@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "title": "每日坚果 750g 装选购推荐报告",
+    "query": "每日坚果 混合果仁 750g",
+    "input_type": "商品名称",
+    "platforms": ["京东", "淘宝/天猫", "拼多多"],
+    "budget": "60–100 元",
+    "generated_at": "2026-11-12 22:30",
+    "analyst": "DSH",
+    "notes": "示例数据，商品链接为演示地址；真实使用时请替换为平台采集结果。"
+  },
+  "summary": "综合首选京东京造 750g/30 袋：好评率 98.6%、评价量 5 万，自营售后稳定，单价约 2.97 元/袋。追求性价比可选洽洽小黄袋，但需注意批次与临期风险。",
+  "products": [
+    {
+      "name": "京东京造 每日坚果 750g/30 袋",
+      "platform": "京东",
+      "shop": "京东京造自营旗舰店",
+      "shop_type": "自营",
+      "category": "食品/坚果",
+      "url": "https://item.jd.com/100000000001.html",
+      "image": null,
+      "price": 89,
+      "original_price": 129,
+      "unit_price": "约 2.97 元/袋",
+      "sales": "已售 20 万+",
+      "sales_num": 200000,
+      "positive_rate": 98.6,
+      "review_count": 50000,
+      "rating": 4.9,
+      "shop_rating": 4.9,
+      "details": "腰果、巴旦木、核桃仁、榛子仁、蔓越莓干、蓝莓干混合，独立小袋 25g×30 袋；充氮包装，主打无添加香精。",
+      "specs": {
+        "规格": "25g×30 袋",
+        "口味": "混合果仁",
+        "产地": "中国",
+        "包装": "独立小袋"
+      },
+      "nutrition_basis": "每 100g",
+      "nutrition": [
+        {"item": "能量", "per_100g": "2500 kJ", "nrv": "30%"},
+        {"item": "蛋白质", "per_100g": "18.0 g", "nrv": "30%"},
+        {"item": "脂肪", "per_100g": "45.0 g", "nrv": "75%"},
+        {"item": "碳水化合物", "per_100g": "28.0 g", "nrv": "9%"},
+        {"item": "钠", "per_100g": "30 mg", "nrv": "2%"},
+        {"item": "膳食纤维", "per_100g": "8.0 g", "nrv": "32%"}
+      ],
+      "ingredients": "巴旦木、腰果、核桃仁、榛子仁、蔓越莓干、蓝莓干。",
+      "shelf_life": "180 天，阴凉干燥处密封保存；开袋后尽快食用。",
+      "pros": ["好评率与评价量在同价位领先", "自营发货快，售后退换省心", "独立小袋，分量和新鲜度更稳"],
+      "cons": ["单价略高于拼多多同规格", "果干占比不低，整体含糖量不算低"],
+      "vs_peers": "与三只松鼠 750g 相比贵约 10 元，但自营售后和批次稳定性更好；与洽洽相比单价高约 0.5 元/袋，胜在评价量与店铺信任。",
+      "ai_reason": "好评率 98.6% 且评价量 5 万，自营售后稳定；89 元处于同规格主流价位，适合作为日常口粮的首选。",
+      "risk_tags": [],
+      "bad_review_keywords": ["个别果干偏甜", "袋子偏小"],
+      "after_sales": "7 天无理由退货、京东上门取件、破损包赔",
+      "evidence": [
+        {"field": "到手价", "value": "¥89", "source": "京东商品页", "url": "https://item.jd.com/100000000001.html", "captured_at": "2026-11-12 22:18"},
+        {"field": "好评率", "value": "98.6%", "source": "京东商品页", "url": "https://item.jd.com/100000000001.html", "captured_at": "2026-11-12 22:18"},
+        {"field": "销量", "value": "已售 20 万+", "source": "京东商品页", "url": "https://item.jd.com/100000000001.html", "captured_at": "2026-11-12 22:18"},
+        {"field": "营养成分", "value": "每 100g 能量 2500kJ、蛋白质 18g、钠 30mg", "source": "京东详情页", "url": "https://item.jd.com/100000000001.html", "captured_at": "2026-11-12 22:19"}
+      ]
+    },
+    {
+      "name": "三只松鼠 每日坚果 750g/30 袋",
+      "platform": "淘宝/天猫",
+      "shop": "三只松鼠官方旗舰店",
+      "shop_type": "天猫旗舰",
+      "category": "食品/坚果",
+      "url": "https://detail.tmall.com/item.htm?id=100000000002",
+      "image": null,
+      "price": 79,
+      "original_price": 109,
+      "unit_price": "约 2.63 元/袋",
+      "sales": "月销 10 万+",
+      "sales_num": 100000,
+      "positive_rate": 97.2,
+      "review_count": 30000,
+      "rating": 4.8,
+      "shop_rating": 4.8,
+      "details": "混合果仁与果干，25g×30 袋；经典款，含腰果、巴旦木、核桃仁、蔓越莓干等。",
+      "specs": {
+        "规格": "25g×30 袋",
+        "口味": "混合果仁",
+        "产地": "中国",
+        "包装": "独立小袋"
+      },
+      "nutrition_basis": "每 100g",
+      "nutrition": [
+        {"item": "能量", "per_100g": "2480 kJ", "nrv": "30%"},
+        {"item": "蛋白质", "per_100g": "17.5 g", "nrv": "29%"},
+        {"item": "脂肪", "per_100g": "44.0 g", "nrv": "73%"},
+        {"item": "碳水化合物", "per_100g": "29.0 g", "nrv": "10%"},
+        {"item": "钠", "per_100g": "35 mg", "nrv": "2%"},
+        {"item": "膳食纤维", "per_100g": "7.5 g", "nrv": "30%"}
+      ],
+      "ingredients": "巴旦木、腰果、核桃仁、蔓越莓干、蓝莓干、榛子仁。",
+      "shelf_life": "180 天，阴凉干燥处保存。",
+      "pros": ["品牌认知度高，口味稳定", "活动价频繁，79 元入手价有竞争力", "天猫旗舰店售后规范"],
+      "cons": ["好评率略低于京造", "果干比例较高，糖分不低"],
+      "vs_peers": "同规格比京造便宜 10 元，适合价格敏感型；但好评率低 1.4 个百分点，售后响应略慢。",
+      "ai_reason": "天猫官方旗舰、月销 10 万+，79 元是同规格低价位；好评率 97.2% 仍高于阈值，适合作为性价比备选。",
+      "risk_tags": [],
+      "bad_review_keywords": ["果干偏多", "包装漏气"],
+      "after_sales": "7 天无理由退货、运费险",
+      "evidence": [
+        {"field": "到手价", "value": "¥79（券后）", "source": "天猫商品页", "url": "https://detail.tmall.com/item.htm?id=100000000002", "captured_at": "2026-11-12 22:22"},
+        {"field": "好评率", "value": "97.2%", "source": "天猫商品页", "url": "https://detail.tmall.com/item.htm?id=100000000002", "captured_at": "2026-11-12 22:22"},
+        {"field": "销量", "value": "月销 10 万+", "source": "天猫商品页", "url": "https://detail.tmall.com/item.htm?id=100000000002", "captured_at": "2026-11-12 22:22"}
+      ]
+    },
+    {
+      "name": "洽洽 小黄袋每日坚果 780g/26 袋",
+      "platform": "拼多多",
+      "shop": "洽洽食品官方旗舰店",
+      "shop_type": "百亿补贴",
+      "category": "食品/坚果",
+      "url": "https://mobile.yangkeduo.com/goods.html?goods_id=100000000003",
+      "image": null,
+      "price": 69,
+      "original_price": 99,
+      "unit_price": "约 2.65 元/袋",
+      "sales": "已拼 8 万+",
+      "sales_num": 80000,
+      "positive_rate": 96.5,
+      "review_count": 12000,
+      "rating": 4.7,
+      "shop_rating": 4.8,
+      "details": "洽洽小黄袋混合坚果，30g×26 袋；含巴旦木、腰果、核桃仁、蔓越莓干，主打锁鲜包装。",
+      "specs": {
+        "规格": "30g×26 袋",
+        "口味": "混合果仁",
+        "产地": "中国",
+        "包装": "独立小袋"
+      },
+      "nutrition_basis": "每 100g",
+      "nutrition": [
+        {"item": "能量", "per_100g": "2520 kJ", "nrv": "30%"},
+        {"item": "蛋白质", "per_100g": "16.0 g", "nrv": "27%"},
+        {"item": "脂肪", "per_100g": "46.0 g", "nrv": "77%"},
+        {"item": "碳水化合物", "per_100g": "27.0 g", "nrv": "9%"},
+        {"item": "钠", "per_100g": "28 mg", "nrv": "1%"},
+        {"item": "膳食纤维", "per_100g": "8.2 g", "nrv": "33%"}
+      ],
+      "ingredients": "巴旦木、腰果、核桃仁、蔓越莓干、蓝莓干。",
+      "shelf_life": "180 天，避免高温潮湿。",
+      "pros": ["百亿补贴后单价最低", "每袋 30g，分量略大", "洽洽品牌，坚果供应链成熟"],
+      "cons": ["好评率 96.5%，在三款中最低", "拼多多店铺需确认是否官方直营", "部分批次被反馈果干偏硬"],
+      "vs_peers": "同规格总价最低，单价与三只松鼠接近；但好评率低约 0.7–2.1 个百分点，且需确认批次新鲜度。",
+      "ai_reason": "价格优势明显，百亿补贴加持；好评率 96.5% 仍过线，但低于另外两款，适合预算优先、能接受一定口感波动的用户。",
+      "risk_tags": ["临期风险需确认"],
+      "bad_review_keywords": ["果干偏硬", "日期不够新"],
+      "after_sales": "7 天无理由退货、退货包运费",
+      "evidence": [
+        {"field": "到手价", "value": "¥69（百亿补贴）", "source": "拼多多商品页", "url": "https://mobile.yangkeduo.com/goods.html?goods_id=100000000003", "captured_at": "2026-11-12 22:26"},
+        {"field": "好评率", "value": "96.5%", "source": "拼多多商品页", "url": "https://mobile.yangkeduo.com/goods.html?goods_id=100000000003", "captured_at": "2026-11-12 22:26"},
+        {"field": "销量", "value": "已拼 8 万+", "source": "拼多多商品页", "url": "https://mobile.yangkeduo.com/goods.html?goods_id=100000000003", "captured_at": "2026-11-12 22:26"}
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "name": "某杂牌每日坚果 500g",
+      "platform": "拼多多",
+      "reason": "好评率 91%，低于食品类 96% 阈值；详情页无生产许可证编号，按三无风险排除。"
+    }
+  ],
+  "conclusion": {
+    "best_value": "三只松鼠 750g/30 袋，79 元到手，品牌与好评率均衡。",
+    "best_quality": "京东京造 750g/30 袋，好评率 98.6%，自营售后最稳。",
+    "budget_pick": "洽洽小黄袋 780g/26 袋，百亿补贴 69 元，但下单前确认生产日期。",
+    "avoid": "好评率低于 96%、无 SC 编号的杂牌分装坚果。"
+  },
+  "methodology": "按食品类阈值（好评率 ≥96%）过滤；评分维度为口碑 35%、销量 20%、价格 20%、店铺信任 15%、信息完整度 10%，再扣除风险分。营养数据统一换算为每 100g。"
+}
